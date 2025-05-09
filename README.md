@@ -3,7 +3,7 @@
 <html lang="en">
  site de tutorial de como lidar com gatinhos
 <head>
-    <title>CatPhotoApp</title>
+  CatPhotoApp
   </head>
   <body>
     <main>
